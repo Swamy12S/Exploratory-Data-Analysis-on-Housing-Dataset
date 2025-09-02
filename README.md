@@ -32,14 +32,10 @@ The main objective is to extract meaningful insights, understand data patterns, 
 <img width="897" height="647" alt="Screenshot 2025-09-02 093447" src="https://github.com/user-attachments/assets/cf0b9fb7-fa90-4373-a319-cdb9c2dc9dc0" />
 
 ## Key Insights:
-**Distribution of Median House Value**:
-The histogram helps visualize the distribution of house values and detect skewness or peaks.
-**Income vs House Value**:
-The scatterplot displays how median income influences house values.
-**Household Distribution**:
-A histogram for households provides insight into the typical size of households in the dataset.
-**Ocean Proximity**:
-A bar chart visualizes how the proximity to the ocean influences housing count.
+**Distribution of Median House Value**:The histogram helps visualize the distribution of house values and detect skewness or peaks.
+**Income vs House Value**:The scatterplot displays how median income influences house values.
+**Household Distribution**:A histogram for households provides insight into the typical size of households in the dataset.
+**Ocean Proximity**:A bar chart visualizes how the proximity to the ocean influences housing count.
 
 ## Conclusion:
 This EDA provides a foundational understanding of the housing dataset. Further insights can be drawn by applying more advanced statistical methods or machine learning models for predictions and analysis

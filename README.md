@@ -23,7 +23,7 @@ The main objective is to extract meaningful insights, understand data patterns, 
 <img width="861" height="608" alt="Screenshot 2025-09-02 093403" src="https://github.com/user-attachments/assets/5748c2ef-d037-4722-af04-748f7a9c6351" />
 
 ## SCATTER : Finding Correlation & Relationship between Median Income and Median House Value 
-<img width="765" height="548" alt="Screenshot 2025-09-02 093420" src="https://github.com/user-attachments/assets/c6afa0ff-d7f8-443a-9d11-b607ba75ea77" 
+<img width="765" height="548" alt="Screenshot 2025-09-02 093420" src="https://github.com/user-attachments/assets/c6afa0ff-d7f8-443a-9d11-b607ba75ea77"/>
   
 ## Histogram :Distribution of Households is which skewed :
 <img width="897" height="661" alt="Screenshot 2025-09-02 093434" src="https://github.com/user-attachments/assets/1f0f7c0d-1dc1-4c45-9f0c-01d5b3f5f7f6" />
